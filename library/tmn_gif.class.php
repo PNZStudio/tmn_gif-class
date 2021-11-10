@@ -1,13 +1,12 @@
 <?php
 /*
 PHP CLASS BY PHAIWAN STUDIO
-FACEBOOK : https://www.facebook.com/phaiwan.nakrub/
-FAN PAGE : https://www.facebook.com/PhaiwanStudio/
+FACEBOOK : https://www.facebook.com/si.dx.94/
 
 DONATE
   True Wallet : 0910504092
   BANK : 0638058804 - Kasikorn
-  PayPal : insensak.007@gmail.com
+  PayPal : ew.eywa@gmail.com
 */
 class phaiwan_tmn_gif {
 
